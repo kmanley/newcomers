@@ -1,0 +1,8 @@
+#idLoginContainer #idLoginUserName label,
+#idLoginContainer #idLoginPassword label,
+#idLoginContainer #idLoginActionRememberMe label,
+#idLoginContainer #idLoginPasswordForgot A,
+#idLoginContainer #idLoggedName span, 
+#idLoginContainer .profileBox A {
+  color: #ffffff;
+}
