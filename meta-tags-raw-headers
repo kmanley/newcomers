@@ -22,6 +22,8 @@ $("#ctl03_FunctionalBlock1_ctl00_eventPageViewBase_ctl00_eventListViewSwitcher_l
      $("a:contains('Nobody')").hide(); // text("Be the first"); //hide()
    }
 
+   // check the Include name in list of event attendees checkbox by default
+   $("#ctl03_FunctionalBlock1_ctl00_eventPageViewBase_ctl00_ctl03_stepTemplate_isShownOnPublic").attr('checked', true);
 
 });
 
